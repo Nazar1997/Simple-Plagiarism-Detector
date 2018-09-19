@@ -1,6 +1,6 @@
 # Simple-Plagiarism-Detector
 
-This simple python script can be used for fast and one-command plagiarism detection between all branches of the git repository. 
+This simple python script can be used for fast and one-command plagiarism detection between all branches of the git repository. Considers only .py and .ipynb files.
 
 ## Getting Started
 
