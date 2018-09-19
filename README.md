@@ -7,6 +7,7 @@ This simple python script can be used for fast and one-command plagiarism detect
 Just clone and install all requirements
 ```
 git clone https://github.com/Nazar1997/Simple-Plagiarism-Detector
+cd Simple-Plagiarism-Detector
 pip install -r requirements.txt
 ```
 
